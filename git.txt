@@ -1,4 +1,20 @@
 git commands:
 
+git add .
+git commit -m "Version 1.01"
+git push
+
 git init
 git add .
+git branch -M main
+git status
+git commit -m "New project: ready-4-ai"
+git remote add origin https://github.com/Ntkgzd/ready-4-ai.git
+git push -u origin main
+
+git reset --hard
+git clean -fd
+git fetch origin
+git reset --hard origin/main
+
+git clone https://github.com/Ntkgzd/ready-4-ai.git

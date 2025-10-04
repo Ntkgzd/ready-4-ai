@@ -1,0 +1,14 @@
+Version 1.01 - 04.10.2025
+Author: Ntkgzd
+------------------------------
+- Dodanie prostej wersji Asystenta (basic_chatbot.py)
+- Dodanie historii wersji (version_history.txt)
+- Dodanie prostego zestawu komend Git/GitHub (git.txt)
+
+==============================
+Version 1.00 - 04.10.2025
+Author: Ntkgzd
+------------------------------
+- Utworzenie projektu ready-4-ai i umieszczenie go w GitHub: https://github.com/Ntkgzd/ready-4-ai.git
+
+==============================
