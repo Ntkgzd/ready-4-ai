@@ -1,4 +1,9 @@
 =========================
+Version 1.03 - 07.10.2025
+Author: Ntkgzd
+-------------------------
+1. Stworzenie aplikacji okienkowej Desktop Assistant do rozmowy z openAI bez udziału przeglądarki (desktop_assistant.py).
+=========================
 Version 1.02 - 07.10.2025
 Author: Ntkgzd
 -------------------------
