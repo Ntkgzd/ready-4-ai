@@ -1,7 +1,8 @@
 git commands:
 
+git status
 git add .
-git commit -m "Version 1.01"
+git commit -m "Version 1.xx"
 git push
 
 git init

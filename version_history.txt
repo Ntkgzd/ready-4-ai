@@ -1,14 +1,25 @@
+=========================
+Version 1.02 - 07.10.2025
+Author: Ntkgzd
+-------------------------
+1. Dodanie sprawdzania obecności klucza API i zakończenie programu, jeśli go nie ma.
+2. Wprowadzenie stałych konfiguracyjnych (MODEL_NAME, LOG_FILE).
+3. Dodanie funkcji logującej przebieg rozmowy do pliku conversation.log.
+4. Obsługa pustych wiadomości – program nie pozwala na ich wysyłanie.
+5. Dodanie obsługi wyjątków podczas wywołania API (try/except).
+6. Dodanie obsługi przerwania programu przez użytkownika (Ctrl+C) z czytelnym komunikatem.
+7. Zamknięcie głównej pętli programu w funkcji main() i uruchomienie jej przez blok if __name__ == "__main__".
+8. Poprawa czytelności i struktury kodu.
+=========================
 Version 1.01 - 04.10.2025
 Author: Ntkgzd
-------------------------------
-- Dodanie prostej wersji Asystenta (basic_chatbot.py)
-- Dodanie historii wersji (version_history.txt)
-- Dodanie prostego zestawu komend Git/GitHub (git.txt)
-
-==============================
+-------------------------
+1. Dodanie prostej wersji Asystenta (basic_chatbot.py)
+2. Dodanie historii wersji (version_history.txt)
+3. Dodanie prostego zestawu komend Git/GitHub (git.txt)
+=========================
 Version 1.00 - 04.10.2025
 Author: Ntkgzd
-------------------------------
+-------------------------
 - Utworzenie projektu ready-4-ai i umieszczenie go w GitHub: https://github.com/Ntkgzd/ready-4-ai.git
-
-==============================
+=========================
